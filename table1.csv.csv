@@ -1,0 +1,7 @@
+StudentID,FirstName,LastName,DateOfBirth,Email,PhoneNumber,EnrollmentDate
+1,Alex,Johnson,2005-03-10,alex.j@email.com,555-123-4567,2023-09-01
+2,Maria,Garcia,2004-11-25,maria.g@email.com,555-987-6543,2023-09-01
+3,James,Chen,2006-01-15,james.c@email.com,555-555-1234,2024-01-15
+4,Sophia,Davis,2005-07-30,sophia.d@email.com,555-333-4444,2024-01-15
+5,Liam,Wilson,2004-04-05,liam.w@email.com,555-222-7777,2023-09-01
+6,Olivia,Miller,2006-02-20,olivia.m@email.com,555-111-8888,2024-01-15
