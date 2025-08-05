@@ -1,0 +1,7 @@
+Customer_ID,First_Name,Last_Name,Email_id,Phone_Number,Address,Registration_Date
+1,John,Doe,john.doe@example.com,555-0101,123 Main St, Anytown, USA,2024-05-10
+2,Jane,Smith,jane.smith@example.com,555-0102,456 Oak Ave, Somewhere, USA,2024-05-11
+3,Peter,Jones,peter.jones@example.com,555-0103,789 Pine Ln, Nowhere, USA,2024-05-12
+4,Mary,Williams,mary.w@example.com,555-0104,101 Maple Rd, Aplace, USA,2024-05-13
+5,David,Brown,david.b@example.com,555-0105,202 Cedar St, Anotherplace, USA,2024-05-14
+6,Susan,Davis,susan.d@example.com,555-0106,303 Birch Dr, Thishere, USA,2024-05-15
